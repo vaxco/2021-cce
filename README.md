@@ -1,6 +1,6 @@
 # 2021-cce
 資傳一乙程式設計
-#第01週
+# 第01週
 ```C
 #include <stdio.h>
 int main()
